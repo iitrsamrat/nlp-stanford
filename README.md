@@ -1,6 +1,6 @@
-### nlp-stanford by ***fish.ai
+### nlp-stanford by fish.ai
 
-<img src="imgs/fish.jpg"  width="200" height="80" alt="Why fish.ai because fish is beautiful, as is AI">
+<img src="imgs/fish.jpg"  width="240" height="100" alt="Why fish.ai because fish is beautiful, as is AI">
 
 ### Language Java 1.8
 
