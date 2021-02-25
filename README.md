@@ -1,4 +1,4 @@
-# nlp-stanford by fish ai by Samrat Saha
+### nlp-stanford by fish.ai
 
 ![Why fish ai because fish is beautiful as is AI](imgs/fish.jpg "Fish AI by Samrat Saha")
 
