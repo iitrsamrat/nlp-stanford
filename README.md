@@ -1,6 +1,6 @@
 ### nlp-stanford by fish.ai
 
-![Why fish ai because fish is beautiful as is AI](imgs/fish.jpg =100x50)
+![Why fish ai because fish is beautiful as is AI](imgs/fish.jpg=100x50)
 
 ### Language Java 1.8
 
