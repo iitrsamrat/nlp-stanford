@@ -1,8 +1,10 @@
 ### nlp-stanford by fish.ai
 
-![Why fish ai because fish is beautiful as is AI](imgs/fish.jpg "Fish AI by Samrat Saha")
+<img src="imgs/fish.jpg"  width="240" height="100" alt="Why fish.ai because fish is beautiful, as is AI">
 
 ### Language Java 1.8
+
+----------------------
 
 ### Use Cases
 
