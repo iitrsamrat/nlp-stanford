@@ -4,6 +4,8 @@
 
 ### Language Java 1.8
 
+----------------------
+
 ### Use Cases
 
 1. Generate Conll Corupus (package name com.fish.ai.nlp.core.conll.generation)
