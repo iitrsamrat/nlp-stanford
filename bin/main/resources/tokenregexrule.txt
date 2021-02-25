@@ -1,0 +1,16 @@
+//author samrat.saha
+
+ner = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$NamedEntityTagAnnotation" }
+tag	= { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$PartOfSpeechAnnotation" }
+normalized = { type: "CLASS", value: "edu.stanford.nlp.ling.CoreAnnotations$NormalizedNamedEntityTagAnnotation" }
+
+ENV.defaultStringPatternFlags = 2
+
+{
+  ruleType: "tokens",
+  pattern: ( ( [ { tag:WP } ] ) ( [ { ner:O} ]* ) ([ { ner:TITLE} ]+ ) ( [ { ner:O} ]* ) ( [ { ner:MOVIE} ]+  ) ( [ { tag:NNP } ]+ )   ),
+  result: Format( "MOVIE_ROLE %s %s %s %s", "##", $$6.text, "##", $$3.text),
+  stage: 1
+}
+
+

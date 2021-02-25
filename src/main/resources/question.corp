@@ -1,0 +1,351 @@
+0	O	0	O	IN	In	O	O	O
+0	O	1	O	WDT	which	O	O	O
+0	MOVIE	2	O	NN	film	O	O	O
+0	O	3	O	VBD	did	O	O	O
+0	PERSON	4	O	NNP/NNP	Sonali/Bendre	O	O	O
+0	O	5	O	VBD	made	O	O	O
+0	PERSON	6	O	PRP$	her	O	O	O
+0	O	7	O	NN	debut	O	O	O
+0	O	8	O	.	?	O	O	O
+
+1	O	0	O	WDT	Which	O	O	O
+1	O	1	O	VBZ	is	O	O	O
+1	PERSON	2	O	NNP/NNP	Akshay/Kumar	O	O	O
+1	O	3	O	POS	's	O	O	O
+1	ORDINAL	4	O	JJ	99th	O	O	O
+1	MOVIE	5	O	NN	film	O	O	O
+1	O	6	O	.	?	O	O	O
+
+2	O	0	O	WP	Who	O	O	O
+2	O	1	O	VBZ	is	O	O	O
+2	O	2	O	DT	the	O	O	O
+2	TITLE	3	O	NN	director	O	O	O
+2	O	4	O	IN	of	O	O	O
+2	O	5	O	DT	the	O	O	O
+2	MOVIE	6	O	NN	film	O	O	O
+2	PERSON	7	O	NNP	Aradhana	O	O	O
+2	O	8	O	.	?	O	O	O
+
+3	O	0	O	WP	Who	O	O	O
+3	O	1	O	VBZ	is	O	O	O
+3	O	2	O	DT	the	O	O	O
+3	TITLE	3	O	NN	director	O	O	O
+3	O	4	O	IN	of	O	O	O
+3	O	5	O	DT	the	O	O	O
+3	MOVIE	6	O	NN	film	O	O	O
+3	O	7	O	NNP	Sholay	O	O	O
+3	O	8	O	.	?	O	O	O
+
+4	O	0	O	WP	Who	O	O	O
+4	O	1	O	VBZ	is	O	O	O
+4	O	2	O	DT	the	O	O	O
+4	TITLE	3	O	NN	producer	O	O	O
+4	O	4	O	IN	of	O	O	O
+4	O	5	O	DT	the	O	O	O
+4	MOVIE	6	O	NN	film	O	O	O
+4	O	7	O	NNP	Sholay	O	O	O
+4	O	8	O	.	?	O	O	O
+
+5	O	0	O	WP	Who	O	O	O
+5	O	1	O	VBZ	is	O	O	O
+5	PERSON	2	O	NNP/NNP	Priyanka/Chopra	O	O	O
+5	O	3	O	VBG	dating	O	O	O
+5	O	4	O	.	?	O	O	O
+
+6	O	0	O	WP	What	O	O	O
+6	O	1	O	VBZ	is	O	O	O
+6	PERSON	2	O	NNP	Rajinikanth	O	O	O
+6	O	3	O	POS	's	O	O	O
+6	O	4	O	JJ	original	O	O	O
+6	O	5	O	NN	name	O	O	O
+6	O	6	O	.	?	O	O	O
+
+7	O	0	O	WDT	Which	O	O	O
+7	TITLE	1	O	NN	actress	O	O	O
+7	O	2	O	VBD	played	O	O	O
+7	PERSON	3	O	NNP/NNP	Mary/Kom	O	O	O
+7	O	4	O	IN	in	O	O	O
+7	PERSON	5	O	PRP$	her	O	O	O
+7	BIOPIC	6	O	NN	biopic	O	O	O
+7	O	7	O	.	?	O	O	O
+
+8	O	0	O	WDT	Which	O	O	O
+8	TITLE	1	O	NN	actor	O	O	O
+8	O	2	O	VBD	played	O	O	O
+8	PERSON	3	O	NNP	Ali	O	O	O
+8	O	4	O	IN	in	O	O	O
+8	PERSON	5	O	PRP$	his	O	O	O
+8	BIOPIC	6	O	NN	biopic	O	O	O
+8	O	7	O	.	?	O	O	O
+
+9	O	0	O	WP	Who	O	O	O
+9	O	1	O	VBZ	is	O	O	O
+9	O	2	O	VBN	known	O	O	O
+9	O	3	O	IN	as	O	O	O
+9	O	4	O	NN	father	O	O	O
+9	O	5	O	IN	of	O	O	O
+9	NATIONALITY	6	O	JJ	Indian	O	O	O
+9	O	7	O	NNP	Cinema	O	O	O
+9	O	8	O	.	?	O	O	O
+
+10	O	0	O	WDT	Which	O	O	O
+10	O	1	O	VBD	was	O	O	O
+10	ORDINAL	2	O	JJ	first	O	O	O
+10	NATIONALITY	3	O	JJ	Indian	O	O	O
+10	O	4	O	NN	animation	O	O	O
+10	O	5	O	NN	movie	O	O	O
+10	O	6	O	.	?	O	O	O
+
+11	O	0	O	WDT	Which	O	O	O
+11	O	1	O	VBD	was	O	O	O
+11	O	2	O	DT	the	O	O	O
+11	ORDINAL	3	O	JJ	first	O	O	O
+11	NATIONALITY	4	O	JJ	Indian	O	O	O
+11	O	5	O	NN	sound	O	O	O
+11	MOVIE	6	O	NN	film	O	O	O
+11	O	7	O	.	?	O	O	O
+
+12	O	0	O	WP	What	O	O	O
+12	O	1	O	VBD	was	O	O	O
+12	PERSON	2	O	NNP/NNP	Amitabh/Bachhan	O	O	O
+12	ORDINAL	3	O	JJ	first	O	O	O
+12	O	4	O	NN	movie	O	O	O
+12	O	5	O	NN	name	O	O	O
+12	O	6	O	.	?	O	O	O
+
+13	O	0	O	WRB	when	O	O	O
+13	O	1	O	VBZ	is	O	O	O
+13	PERSON	2	O	NNP/NNP	Shashi/kapoor	O	O	O
+13	O	3	O	POS	's	O	O	O
+13	O	4	O	NN	birthday	O	O	O
+13	O	5	O	.	?	O	O	O
+
+14	O	0	O	WP	who	O	O	O
+14	O	1	O	VBZ	is	O	O	O
+14	O	2	O	NN	wife	O	O	O
+14	O	3	O	IN	of	O	O	O
+14	PERSON	4	O	NNP/NNP	Amitabh/Bachhan	O	O	O
+14	O	5	O	.	?	O	O	O
+
+15	O	0	O	WP	Who	O	O	O
+15	O	1	O	VBZ	is	O	O	O
+15	O	2	O	DT	the	O	O	O
+15	O	3	O	NN	mother	O	O	O
+15	O	4	O	IN	of	O	O	O
+15	LOCATION	5	O	NNP	Raima	O	O	O
+15	O	6	O	CC	and	O	O	O
+15	PERSON	7	O	NNP/NNP	Riya/Sen	O	O	O
+15	O	8	O	.	?	O	O	O
+
+16	O	0	O	WDT	Which	O	O	O
+16	O	1	O	VBD	was	O	O	O
+16	PERSON	2	O	NNP/NNP	Subhash/Ghai	O	O	O
+16	O	3	O	POS	's	O	O	O
+16	ORDINAL	4	O	JJ	first	O	O	O
+16	MOVIE	5	O	NN	film	O	O	O
+16	O	6	O	IN	as	O	O	O
+16	O	7	O	DT	a	O	O	O
+16	TITLE	8	O	NN	director	O	O	O
+16	O	9	O	.	?	O	O	O
+
+17	O	0	O	WP	What	O	O	O
+17	O	1	O	VBZ	comes	O	O	O
+17	O	2	O	IN	after	O	O	O
+17	O	3	O	DT	the	O	O	O
+17	O	4	O	NN	number	O	O	O
+17	NUMBER	5	O	CD	10	O	O	O
+17	O	6	O	.	?	O	O	O
+
+18	O	0	O	WP	who	O	O	O
+18	O	1	O	VBD	was	O	O	O
+18	O	2	O	DT	the	O	O	O
+18	ORDINAL	3	O	JJ	first	O	O	O
+18	TITLE	4	O	NNP/NNP	Prime/Minister	O	O	O
+18	O	5	O	IN	of	O	O	O
+18	COUNTRY	6	O	NNP	India	O	O	O
+18	O	7	O	.	?	O	O	O
+
+19	O	0	O	WP	Who	O	O	O
+19	O	1	O	VBD	was	O	O	O
+19	TITLE	2	O	NNP/NNP	Prime/Minister	O	O	O
+19	O	3	O	IN	of	O	O	O
+19	COUNTRY	4	O	NNP	India	O	O	O
+19	O	5	O	IN	in	O	O	O
+19	DATE	6	O	CD	2016	O	O	O
+19	O	7	O	.	?	O	O	O
+
+20	O	0	O	WP	What	O	O	O
+20	O	1	O	VBD	was	O	O	O
+20	O	2	O	DT	the	O	O	O
+20	O	3	O	JJ	male	O	O	O
+20	O	4	O	NN	population	O	O	O
+20	O	5	O	IN	of	O	O	O
+20	COUNTRY	6	O	NNP	India	O	O	O
+20	O	7	O	IN	in	O	O	O
+20	DATE	8	O	CD	2011	O	O	O
+20	O	9	O	.	?	O	O	O
+
+21	O	0	O	WP	What	O	O	O
+21	O	1	O	VBD	was	O	O	O
+21	O	2	O	DT	the	O	O	O
+21	O	3	O	NN	population	O	O	O
+21	O	4	O	IN	of	O	O	O
+21	COUNTRY	5	O	NNP	India	O	O	O
+21	O	6	O	IN	in	O	O	O
+21	DATE	7	O	CD	2011	O	O	O
+21	O	8	O	.	?	O	O	O
+
+22	O	0	O	WP	What	O	O	O
+22	O	1	O	VBZ	is	O	O	O
+22	O	2	O	DT	the	O	O	O
+22	O	3	O	JJ	male	O	O	O
+22	O	4	O	NN	population	O	O	O
+22	O	5	O	IN	of	O	O	O
+22	COUNTRY	6	O	NNP	India	O	O	O
+22	O	7	O	.	?	O	O	O
+
+23	O	0	O	WP	What	O	O	O
+23	O	1	O	VBZ	is	O	O	O
+23	O	2	O	DT	the	O	O	O
+23	O	3	O	NN	population	O	O	O
+23	O	4	O	IN	of	O	O	O
+23	COUNTRY	5	O	NNP	India	O	O	O
+23	O	6	O	.	?	O	O	O
+
+24	O	0	O	VB	Name	O	O	O
+24	O	1	O	PDT	all	O	O	O
+24	O	2	O	DT	the	O	O	O
+24	O	3	O	JJS	longest	O	O	O
+24	TITLE	4	O	NN	river	O	O	O
+24	O	5	O	.	?	O	O	O
+
+25	O	0	O	VB	Name	O	O	O
+25	O	1	O	PDT	all	O	O	O
+25	O	2	O	DT	the	O	O	O
+25	O	3	O	NNS	rivers	O	O	O
+25	O	4	O	IN	between	O	O	O
+25	DATE	5	O	CD	1000	O	O	O
+25	O	6	O	IN	to	O	O	O
+25	NUMBER	7	O	CD	5000	O	O	O
+25	O	8	O	NN	km	O	O	O
+25	O	9	O	.	?	O	O	O
+
+26	O	0	O	VB	Name	O	O	O
+26	O	1	O	PDT	all	O	O	O
+26	O	2	O	DT	the	O	O	O
+26	O	3	O	NNS	countries	O	O	O
+26	O	4	O	IN	with	O	O	O
+26	O	5	O	JJ	male	O	O	O
+26	O	6	O	NN	population	O	O	O
+26	O	7	O	IN	between	O	O	O
+26	DATE	8	O	CD	1000	O	O	O
+26	O	9	O	IN	to	O	O	O
+26	NUMBER	10	O	CD	5000	O	O	O
+26	O	11	O	.	?	O	O	O
+
+27	O	0	O	VB	Name	O	O	O
+27	ORDINAL	1	O	JJ	2nd	O	O	O
+27	O	2	O	JJS	longest	O	O	O
+27	O	3	O	NNS	rivers	O	O	O
+27	O	4	O	.	?	O	O	O
+
+28	O	0	O	WP	What	O	O	O
+28	O	1	O	VBZ	is	O	O	O
+28	O	2	O	DT	the	O	O	O
+28	O	3	O	NN	capital	O	O	O
+28	O	4	O	IN	of	O	O	O
+28	COUNTRY	5	O	NNP	India	O	O	O
+28	O	6	O	.	?	O	O	O
+
+29	O	0	O	WP	What	O	O	O
+29	O	1	O	VBZ	is	O	O	O
+29	O	2	O	DT	the	O	O	O
+29	O	3	O	NN	capital	O	O	O
+29	O	4	O	IN	of	O	O	O
+29	LOCATION	5	O	NNP/NNP	West/Bengal	O	O	O
+29	O	6	O	.	?	O	O	O
+
+30	O	0	O	WP	Who	O	O	O
+30	O	1	O	VBD	was	O	O	O
+30	O	2	O	DT	the	O	O	O
+30	TITLE	3	O	JJ/NN	prime/minister	O	O	O
+30	O	4	O	IN	of	O	O	O
+30	COUNTRY	5	O	NNP	India	O	O	O
+30	O	6	O	IN	in	O	O	O
+30	DATE	7	O	CD	1985	O	O	O
+30	O	8	O	.	?	O	O	O
+
+31	O	0	O	WP	Who	O	O	O
+31	O	1	O	VBD	were	O	O	O
+31	O	2	O	DT	the	O	O	O
+31	O	3	O	JJ	prime	O	O	O
+31	O	4	O	NNS	ministers	O	O	O
+31	O	5	O	IN	of	O	O	O
+31	COUNTRY	6	O	NNP	India	O	O	O
+31	O	7	O	IN	between	O	O	O
+31	DATE	8	O	CD	1985	O	O	O
+31	DATE	9	O	CC	and	O	O	O
+31	DATE	10	O	CD	2018	O	O	O
+31	O	11	O	.	?	O	O	O
+
+32	O	0	O	WP	Who	O	O	O
+32	O	1	O	VBD	were	O	O	O
+32	O	2	O	DT	the	O	O	O
+32	O	3	O	JJ	prime	O	O	O
+32	O	4	O	NNS	ministers	O	O	O
+32	O	5	O	IN	of	O	O	O
+32	COUNTRY	6	O	NNP	India	O	O	O
+32	O	7	O	IN	after	O	O	O
+32	DATE	8	O	CD	1990	O	O	O
+32	O	9	O	.	?	O	O	O
+
+33	O	0	O	WP	Who	O	O	O
+33	O	1	O	VBD	were	O	O	O
+33	O	2	O	DT	the	O	O	O
+33	O	3	O	JJ	prime	O	O	O
+33	O	4	O	NNS	ministers	O	O	O
+33	O	5	O	IN	of	O	O	O
+33	COUNTRY	6	O	NNP	India	O	O	O
+33	O	7	O	IN	before	O	O	O
+33	DATE	8	O	CD	1990	O	O	O
+33	O	9	O	.	?	O	O	O
+
+34	O	0	O	VB	Tell	O	O	O
+34	O	1	O	PRP	me	O	O	O
+34	O	2	O	NNS	movies	O	O	O
+34	O	3	O	WRB	where	O	O	O
+34	PERSON	4	O	NNP/NNP	Amitabh/Bachan	O	O	O
+34	O	5	O	VBD	acted	O	O	O
+34	O	6	O	.	?	O	O	O
+
+35	O	0	O	WP	Who	O	O	O
+35	O	1	O	VBD	was	O	O	O
+35	O	2	O	DT	the	O	O	O
+35	TITLE	3	O	JJ/NN	prime/minister	O	O	O
+35	O	4	O	IN	of	O	O	O
+35	COUNTRY	5	O	NNP	India	O	O	O
+35	O	6	O	IN	during	O	O	O
+35	O	7	O	NN	independence	O	O	O
+35	O	8	O	.	?	O	O	O
+
+36	O	0	O	WDT	Which	O	O	O
+36	O	1	O	NNS	states	O	O	O
+36	O	2	O	IN	in	O	O	O
+36	COUNTRY	3	O	NN	india	O	O	O
+36	TITLE	4	O	NN	river	O	O	O
+36	O	5	O	NN	ganga	O	O	O
+36	O	6	O	VBZ	flows	O	O	O
+36	O	7	O	IN	through	O	O	O
+36	O	8	O	.	?	O	O	O
+
+37	O	0	O	VB	tell	O	O	O
+37	O	1	O	PRP	me	O	O	O
+37	O	2	O	DT	a	O	O	O
+37	TITLE	3	O	NN	river	O	O	O
+37	O	4	O	JJR	more	O	O	O
+37	O	5	O	IN	than	O	O	O
+37	NUMBER	6	O	CD	2	O	O	O
+37	O	7	O	NNP	KM	O	O	O
+37	O	8	O	RB	long	O	O	O
+37	O	9	O	.	?	O	O	O
+
