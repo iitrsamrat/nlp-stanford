@@ -23,7 +23,7 @@
 4. [Stanford Sentiment Analysis](https://nlp.stanford.edu/sentiment/)
 
 ### Medium Post
-[Medium link for Simple Question answering System] (https://towardsdatascience.com/building-a-personal-assistant-like-alexa-open-domain-question-answering-7e9aa1e8ed90)
+[Medium link for Simple Question answering System](https://towardsdatascience.com/building-a-personal-assistant-like-alexa-open-domain-question-answering-7e9aa1e8ed90)
 
 ##### Reference Repo for Upcoming udemy course
 
